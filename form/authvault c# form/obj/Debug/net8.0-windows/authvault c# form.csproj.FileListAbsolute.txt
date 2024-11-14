@@ -1,0 +1,21 @@
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\bin\Debug\net8.0-windows\authvault c# form.exe
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\bin\Debug\net8.0-windows\authvault c# form.deps.json
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\bin\Debug\net8.0-windows\authvault c# form.runtimeconfig.json
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\bin\Debug\net8.0-windows\authvault c# form.dll
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\bin\Debug\net8.0-windows\authvault c# form.pdb
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\obj\Debug\net8.0-windows\authvault_c__form.login.resources
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\obj\Debug\net8.0-windows\authvault c# form.csproj.GenerateResource.cache
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\obj\Debug\net8.0-windows\authvault c# form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\obj\Debug\net8.0-windows\authvault c# form.AssemblyInfoInputs.cache
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\obj\Debug\net8.0-windows\authvault c# form.AssemblyInfo.cs
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\obj\Debug\net8.0-windows\authvault c# form.csproj.CoreCompileInputs.cache
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\obj\Debug\net8.0-windows\authvault c# form.dll
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\obj\Debug\net8.0-windows\refint\authvault c# form.dll
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\obj\Debug\net8.0-windows\authvault c# form.pdb
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\obj\Debug\net8.0-windows\authvault c# form.genruntimeconfig.cache
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\obj\Debug\net8.0-windows\ref\authvault c# form.dll
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\obj\Debug\net8.0-windows\authvault c# form.csproj.AssemblyReference.cache
+C:\Users\qxsd\source\repos\authvault c# form\authvault c# form\obj\Debug\net8.0-windows\authvaul.AE7A5F0C.Up2Date
